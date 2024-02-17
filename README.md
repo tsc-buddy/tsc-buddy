@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Buddy! (Yep, my name is Buddy). I am a Cloud Solution Architect @...  <img src="https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white" />
+👋 Hi, I’m Buddy! (Yep, my name is Buddy). I am a Cloud Solution Architect @...  <img src="https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white" />
 ### Things I am interested in.
 - Being a Dad!
 - Cultures
