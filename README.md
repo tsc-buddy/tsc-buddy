@@ -1,8 +1,8 @@
 👋 Hi, I’m Buddy! (Yep, my name is Buddy). I am a Cloud Solution Architect @...  <img src="https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white" />
 ### Things I am interested in.
-- Being a Dad!
-- Cultures
+- Being a Dad and role model to my son!
 - Technology
+- Cultures & History
 - Travelling
 - Hiking & Camping
 - Motocross
@@ -35,7 +35,6 @@ I love helping customers solve business problems using cloud technologies. Desig
 - a lot about Azure AI.
 - Kusto Query Language
 - to build PoCs in Javascript & .net
-- Google Cloud Platform
 
 ### How to Reach me
 Linkedin is your best bet.
