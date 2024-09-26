@@ -9,7 +9,7 @@
 - Snowboarding
 
 ### Technologies that I work with
-I love helping customers solve business problems using cloud technologies. Designing and building Well architected solutions is a lot of fun for me, particular the topic of reliability.
+I love building solution to drive business value using cloud technologies. Designing and building solutions is a lot of fun for me and a particular topic I thoroughly enjoy is reliability.
 
 <p>
 <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
